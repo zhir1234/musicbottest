@@ -70,7 +70,7 @@ Currently available locales are:
 
 * 🎶 Play music from YouTube via url
 
-`/play https://www.youtube.com/watch?v=GLvohMXgcBo`
++play https://www.youtube.com/watch?v=GLvohMXgcBo`
 
 * 🔎 Play music from YouTube via search query
 
